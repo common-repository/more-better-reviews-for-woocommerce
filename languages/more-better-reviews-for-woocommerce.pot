@@ -1,0 +1,2722 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Reviews for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-09 17:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: includes/class-wtsr-license.php:386 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:16 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:69 
+#: admin/partials/wtsr-admin-generate.php:70
+msgid " days"
+msgstr ""
+
+#: includes/class-wtsr-license.php:389 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:19 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:72 
+#: admin/partials/wtsr-admin-generate.php:73
+msgid " hours"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:517
+msgid " products reviews enabled"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:604
+msgid " review requests started to generate in background"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:746 admin/class-wtsr-admin-ajax.php:804
+msgid " review(s) deleted"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:18
+#, php-format
+msgid "%s or"
+msgstr ""
+
+#: includes/class-wtsr-license.php:419 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:50 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:103
+#, php-format
+msgid "%s to generate unlimited review requests instantly."
+msgstr ""
+
+#: includes/class-wtsr-license.php:444 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:75 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:128
+#, php-format
+msgid "%s to generate unlimited review requests."
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:89 admin/partials/wtsr-admin-settings.php:80 
+#: admin/partials/wtsr-admin-settings.php:207 
+#: admin/partials/wtsr-admin-settings.php:327
+msgid "(optional)"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1034 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:74
+msgid "-- Select discount type --"
+msgstr ""
+
+#: admin/class-wtsr-admin-wizard.php:410
+msgid "5 orders generated successfully"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:254
+msgid ""
+"<strong><a href=\"edit.php?post_type=product&orderby=title&order=asc\">"
+"here</a></strong>"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-license_info.php:81 
+#: admin/partials/wtsr-admin-settings.php:106 
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:67 
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:96
+msgid "Activate"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:228
+msgid "Activate Wizard"
+msgstr ""
+
+#: includes/class-wtsr-license.php:265
+msgid ""
+"Activation failed: Your license are currently inactive. Possible reason: "
+"Missing payment."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:901 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:272
+msgid "Add link to product page"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:742 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:106
+msgid ""
+"After page will be created, you can adit and add any type of content to be "
+"shown for your customers in wordpress editor."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:120 
+#: admin/partials/wtsr-admin-review.php:82
+msgid ""
+"After this go back to previously opened mail-tester page and click \"Then "
+"check your score\" button."
+msgstr ""
+
+#: includes/lib/ReviewsModel.php:372
+msgid "All products review page link"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:103 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:210
+msgid "All Reviews"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:786 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:160
+msgid "All-in-one review page design"
+msgstr ""
+
+#: admin/class-wtsr-admin.php:1015 admin/partials/wtsr-admin-email.php:667
+msgid "All-in-one reviews page"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:825 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:163
+msgid "All-in-one reviews page colors"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:911 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:255
+msgid "All-in-one reviews page footer content"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:793 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:211
+msgid "All-in-one reviews page header logo"
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:109
+msgid "All-In-One Reviews page settings"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:661
+msgid "All-in-one reviews page settings"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:38
+msgid "Almost done!."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:103 
+#: admin/partials/wtsr-admin-settings.php:442
+msgid ""
+"Also we generate reviews request only for orders that was done via checkout "
+"on your shop."
+msgstr ""
+
+#: includes/class-wtsr-wc-review-request-email.php:14
+msgid "An email sent to the customer for review request."
+msgstr ""
+
+#: includes/lib/Wtsr_WC_Email_Customer_Coupon.php:15
+msgid "An thank you email sent to the customer after review approved."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:116 
+#: admin/partials/wtsr-admin-email.php:200
+msgid ""
+"Any of values should not be more than number of days in \"Generate request "
+"not often than (days)\" on \"Settings\" tab, otherwise review request will "
+"be <strong>outdated</strong> (sent but not reviewed) or <strong>"
+"canceled</strong> (not sent in timeframe)."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:242 
+#: admin/partials/wtsr-admin-reviews.php:202
+msgid "Apply filter"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:293
+msgid ""
+"Are you sure you want to delete all Trusted Shops reviews from to "
+"woocommerce products?"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:246 
+#: admin/partials/wtsr-admin-generate.php:172
+msgid "Are you sure you want to generate requests for all orders"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:221 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:235 
+#: admin/partials/wtsr-admin-generate.php:160
+msgid "Are you sure you want to generate requests for selected orders"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:258
+msgid ""
+"Are you sure you want to import all reviews from Trusted Shops to "
+"woocommerce products?"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:266 
+#: admin/partials/wtsr-admin-reviews.php:226
+msgid "Are you sure you want to remove selected reviews"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:253 
+#: admin/partials/wtsr-admin-reviews.php:213
+msgid "Are you sure you want to send review request emails to the selected?"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:153
+msgid ""
+"Are you sure? Review requests with third party services would be disabled."
+msgstr ""
+
+#: admin/partials/wtsr-admin-description-review-ask.php:11
+#, php-format
+msgid ""
+"As the default Woocommerce integration of the \"I want to review\" checkbox "
+"depends on your used theme, custom CSS, payment plugins, we can not "
+"guarantee how and where it is viewed. If you select \"Yes\", please test "
+"integration by visiting %s."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:40 
+#: admin/partials/wtsr-admin-settings.php:407
+msgid "Ask customer for review"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:60
+msgid "Ask customer for review HTML template"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:198
+msgid ""
+"Auto generation and sending reviews request disabled. Please <a href=\"?"
+"page=wp2leads-wtsr&tab=generate\" target=\"_blank\">enable it here</a> in "
+"order to send reviews automatically."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:988 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:51 
+#: admin/partials/blocks/available-shortcodes-list.php:1
+msgid "Available shortcodes"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1073 
+#: admin/partials/wtsr-admin-email.php:1137 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:112 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:176
+msgid "Available shortcodes for coupon description"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:266 
+#: admin/partials/wtsr-admin-email.php:612
+msgid "Available shortcodes for custom links"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard.php:140
+msgid "Back to"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-required_plugin.php:23
+msgid ""
+"Before running Better Reviews for WooCommerce wizard, you need to install "
+"and activate required Wordpress plugins from the list below."
+msgstr ""
+
+#: admin/partials/blocks/available-shortcodes-list.php:8
+msgid "better for desktop view"
+msgstr ""
+
+#: admin/partials/blocks/available-shortcodes-list.php:9
+msgid "better for mobile devices view"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard.php:81 
+#: admin/partials/wtsr-admin-display.php:35
+msgid "Better Reviews for WOO"
+msgstr ""
+
+#: includes/class-wtsr-license.php:355 includes/class-wtsr-license.php:367 
+#: includes/class-wtsr-license.php:397 admin/class-wtsr-admin.php:563 
+#: includes/lib/Wtsr_Notices.php:29 includes/lib/Wtsr_Notices.php:47 
+#: includes/lib/Wtsr_Notices.php:62 includes/lib/Wtsr_Notices.php:82 
+#: includes/lib/Wtsr_Notices.php:110 includes/lib/Wtsr_Notices.php:175 
+#: includes/lib/Wtsr_Notices.php:196 includes/lib/Wtsr_Notices.php:213 
+#: includes/lib/Wtsr_Notices.php:251 includes/lib/Wtsr_Notices.php:276 
+#: includes/lib/Wtsr_Notices.php:298 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:28 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:81
+msgid "Better Reviews for WooCommerce"
+msgstr ""
+
+#: includes/transfer-modules/class-wtsr-transfer-review-request.php:25
+msgid "Better Reviews for WooCommerce: New review request created"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:58 
+#: admin/partials/wtsr-admin-email.php:267
+msgid "Button BG color"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:64 
+#: admin/partials/wtsr-admin-email.php:273
+msgid "Button text color"
+msgstr ""
+
+#: includes/class-wtsr-license.php:400 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:31 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:84 
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:28
+msgid "Buy license"
+msgstr ""
+
+#: includes/lib/Wtsr_Required_Plugins.php:41
+msgid "By <a rel=\"nofollow\" href=\"https://woocommerce.com\">Automattic</a>"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:43 
+#: admin/partials/wtsr-admin-settings.php:196
+msgid ""
+"By default <strong>WooCommerce only mode</strong> is enabled to get reviews "
+"from your customers. If you want more from your customers reviews <a href=\"?"
+"page=wp2leads-wtsr&tab=overview\" target=\"_blank\">click here for the "
+"overview!</a>"
+msgstr ""
+
+#: includes/lib/Wtsr_Required_Plugins.php:22
+msgid "By Tobias_Conrad"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:114
+msgid "Cancel"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:123
+msgid "Change Start rating links settings"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:762 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:130
+msgid "characters"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:45 admin/class-wtsr-admin-ajax.php:78 
+#: admin/class-wtsr-admin-ajax.php:95 admin/class-wtsr-admin-wizard.php:156
+msgid "Cheating, hah?"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:295
+msgid "Clear data and delete all reviews"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:278 
+#: admin/partials/wtsr-admin-reviews.php:238
+msgid "Click <strong>\"View\"</strong> to see generated review requests"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-license_info.php:92 
+#: admin/partials/wtsr-admin-settings.php:117 
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:107
+msgid "Close manage licenses"
+msgstr ""
+
+#: public/class-wtsr-public.php:362
+msgid "Comment field can't be empty"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:772 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:146
+msgid "Comment field placeholder"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:754
+msgid "Comment field settings"
+msgstr ""
+
+#: public/partials/shortcodes/woo_review_page.php:389 
+#: public/partials/shortcodes/woo_review_page_sample.php:112
+msgid "Comment length"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:50
+msgid ""
+"Congratulations you managed a lot.</br>At this step you can generate review "
+"requests from your current orders and activate automatic mode."
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:31
+msgid "Continue installation"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:119 
+#: admin/partials/wtsr-admin-review.php:81
+msgid "Copy it and paste into the field below and click \"Send email\" button."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1077 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:116
+msgid "coupon code"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1088 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:127
+msgid "Coupon countdown"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1127 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:166
+msgid "Coupon countdown description"
+msgstr ""
+
+#: admin/partials/blocks/available-shortcodes-list.php:11
+msgid "coupon countdown description"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1105 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:144
+msgid "Coupon countdown period (hours)"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1115 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:154
+msgid "Coupon countdown reset (hours)"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:100
+msgid "Coupon description"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:991 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:54
+msgid "coupon description (you need to set up settings for coupon)"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1052 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:90
+msgid "Coupon expiration"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1019
+msgid "Coupon settings"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1076 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:115
+msgid "coupon URL"
+msgstr ""
+
+#: includes/functions.php:240
+msgid "coupon valid until: "
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:725 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:113
+msgid "Create page"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:299 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:441 
+#: admin/partials/wtsr-admin-generate-order-reviews-table-list.php:99 
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:18 
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:56 
+#: admin/partials/wtsr-admin-reviews.php:260 
+#: admin/partials/wtsr-admin-reviews.php:410
+msgid "Created"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:66 admin/class-wtsr-admin-wizard.php:177
+msgid "Credentials saved"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:89 
+#: admin/partials/wtsr-admin-email.php:292
+msgid "cropped"
+msgstr ""
+
+#: admin/class-wtsr-admin.php:80
+msgid "Custom all products review page"
+msgstr ""
+
+#: admin/class-wtsr-admin-wizard.php:247
+msgid "Custom link field should not be empty"
+msgstr ""
+
+#: includes/lib/ReviewsModel.php:369
+msgid "Custom review link"
+msgstr ""
+
+#: admin/partials/wtsr-admin-generate-order-reviews-table-list.php:107
+#, php-format
+msgid ""
+"Customer did not check \"I want to give review\" on checkout. You can "
+"deactivate checkbox %s."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:276 
+#: admin/partials/wtsr-admin-email.php:622
+msgid "customer email"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:277 
+#: admin/partials/wtsr-admin-email.php:623
+msgid "customer email encoded to Base64"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:274 
+#: admin/partials/wtsr-admin-email.php:620 
+#: admin/partials/blocks/available-shortcodes-list.php:6
+msgid "customer first name"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:275 
+#: admin/partials/wtsr-admin-email.php:621 
+#: admin/partials/blocks/available-shortcodes-list.php:7
+msgid "customer last name"
+msgstr ""
+
+#: public/partials/shortcodes/woo_review_page.php:523 
+#: public/partials/shortcodes/woo_review_page_sample.php:141
+msgid "d"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:384
+msgid "Data deleted"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:403 
+#: admin/partials/wtsr-admin-reviews.php:369
+msgid "Date"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1079 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:118
+msgid ""
+"Date and Time until coupon is valid (you need to set Coupon expiration hours "
+"field)"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-license_info.php:85 
+#: admin/partials/wtsr-admin-settings.php:110 
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:100
+msgid "Deactivate"
+msgstr ""
+
+#: includes/class-wtsr-wc-review-request-email.php:17
+#, php-format
+msgctxt "default email subject for cancelled emails sent to the customer"
+msgid "[%s] Review Request"
+msgstr ""
+
+#: includes/lib/Wtsr_WC_Email_Customer_Coupon.php:22
+#, php-format
+msgctxt "default email subject for emails sent to the customer"
+msgid "[%s] - Thank you for your review"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:415 
+#: admin/partials/wtsr-admin-reviews.php:383
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:818 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:232
+msgid "Delete logo image"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:390 
+#: admin/partials/wtsr-admin-reviews.php:356
+msgid "Delete scheduled email"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:270 
+#: admin/partials/wtsr-admin-reviews.php:230
+msgid "Delete selected"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:42 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:43 
+#: public/partials/shortcodes/woo_review_page.php:34 
+#: public/partials/shortcodes/woo_review_page_sample.php:11
+msgid "Describe your experiences with the product here"
+msgstr ""
+
+#: includes/lib/TSManager.php:868 includes/lib/Wtsr_Template.php:216 
+#: admin/partials/wtsr-admin-email.php:1064
+msgid "Description"
+msgstr ""
+
+#: admin/partials/wtsr-admin-license.php:152 
+#: admin/partials/wtsr-admin-tabs.php:56
+msgid "Dev area"
+msgstr ""
+
+#: admin/partials/wtsr-admin-settings.php:79
+msgid "Digistore24 license"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:120 
+#: admin/partials/wtsr-admin-email.php:1098 
+#: admin/partials/wtsr-admin-generate.php:126 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:137
+msgid "Disabled"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:88 includes/lib/Wtsr_Notices.php:127 
+#: includes/lib/Wtsr_Notices.php:258 includes/lib/Wtsr_Notices.php:282 
+#: includes/lib/Wtsr_Notices.php:303
+msgid "Dismiss completely"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:89 includes/lib/Wtsr_Notices.php:128 
+#: includes/lib/Wtsr_Notices.php:259 includes/lib/Wtsr_Notices.php:283 
+#: includes/lib/Wtsr_Notices.php:304
+msgid "Dismiss for week"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:542
+msgid "Dismissed"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard.php:132
+msgid "Do not forget to save your settings before going to next step."
+msgstr ""
+
+#: public/partials/shortcodes/woo_review_page.php:533 
+#: public/partials/shortcodes/woo_review_page_sample.php:147
+#, php-format
+msgid "Don't miss a chance to get your discount coupon! <strong>%s</strong>"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:278
+msgid ""
+"Dummy orders <strong>will not affect</strong> your Pro Version limitation."
+msgstr ""
+
+#: admin/partials/wtsr-admin-tabs.php:31
+msgid "E-mail and Page"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:177 
+#: admin/partials/wtsr-admin-settings.php:503
+msgid "Each variation separately"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:703 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:82
+msgid "Edit page"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:42 
+#: admin/partials/wtsr-admin-email.php:314
+msgid "Edit template"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:83 
+#: admin/partials/wtsr-admin-wizard-license_info.php:51 
+#: admin/partials/wtsr-admin-settings.php:87 
+#: admin/partials/wtsr-admin-settings.php:233 
+#: admin/partials/wtsr-admin-settings.php:342 
+#: admin/partials/wtsr-admin-email.php:57 
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:66 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:239 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:290 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:373 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:432 
+#: admin/partials/wtsr-admin-generate-order-reviews-table-list.php:98 
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:17 
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:55 
+#: admin/partials/wtsr-admin-reviews.php:199 
+#: admin/partials/wtsr-admin-reviews.php:251 
+#: admin/partials/wtsr-admin-reviews.php:339 
+#: admin/partials/wtsr-admin-reviews.php:401
+msgid "Email"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:24 
+#: admin/partials/wtsr-admin-email.php:239
+msgid "Email template"
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:101 
+#: admin/partials/wtsr-admin-settings.php:59 
+#: admin/partials/wtsr-admin-settings.php:540 
+#: admin/partials/wtsr-admin-email.php:233
+msgid "Email template settings"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:19 
+#: admin/partials/wtsr-admin-email.php:72
+msgid "Email will be send via"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:104 
+#: admin/partials/wtsr-admin-email.php:188
+msgid "Email will be sent immediately after order Completed"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:107 
+#: admin/partials/wtsr-admin-email.php:191
+msgid "Email will be sent in 3 days after order Completed"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:102 
+#: admin/partials/wtsr-admin-settings.php:441
+msgid "Emails to these addresses can cause a blocking accounts at the portals!"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:104 
+#: admin/partials/wtsr-admin-email.php:188
+msgid "empty value"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:174
+msgid ""
+"Empty value means that email with review request would be send immediately."
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:123
+msgid "Enable All Products Reviews"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:109 
+#: admin/partials/wtsr-admin-generate.php:120
+msgid "Enable auto generate and email review requests"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:105 
+#: admin/partials/wtsr-admin-generate.php:116
+msgid "Enable auto generate and transfer review requests"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:111 
+#: admin/partials/wtsr-admin-settings.php:259
+msgid "Enable review request"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:84
+msgid "Enable Reviews"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:966 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:23
+msgid "Enable Thank you email"
+msgstr ""
+
+#: admin/partials/wtsr-admin-settings.php:375
+msgid "Enable Trusted Shops mode"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:155 
+#: admin/partials/wtsr-admin-settings.php:301 
+#: admin/partials/wtsr-admin-settings.php:382
+msgid "Enable WooCommerce only mode"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:119 
+#: admin/partials/wtsr-admin-email.php:1099 
+#: admin/partials/wtsr-admin-generate.php:125 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:138
+msgid "Enabled"
+msgstr ""
+
+#: public/class-wtsr-public.php:361 public/class-wtsr-public.php:409 
+#: admin/class-wtsr-admin-ajax.php:59 admin/class-wtsr-admin-ajax.php:113 
+#: admin/class-wtsr-admin-ajax.php:227 admin/class-wtsr-admin-wizard.php:170 
+#: admin/class-wtsr-admin-wizard.php:246 admin/class-wtsr-admin-wizard.php:426 
+#: admin/class-wtsr-admin-wizard.php:445 admin/class-wtsr-admin-wizard.php:456 
+#: admin/class-wtsr-admin-wizard.php:479 admin/class-wtsr-admin-wizard.php:494
+msgid "Error"
+msgstr ""
+
+#: includes/class-wtsr-license.php:303
+msgid "Error: Activation not completed"
+msgstr ""
+
+#: includes/class-wtsr-license.php:286 includes/class-wtsr-license.php:312
+msgid "Error: Deactivation failed"
+msgstr ""
+
+#: includes/class-wtsr-license.php:232 includes/class-wtsr-license.php:275
+msgid "Error: No server response."
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:816 admin/class-wtsr-admin-ajax.php:867
+msgid "Error: Please fill in license email and license key"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:823
+msgid "Error: Please select site to remove"
+msgstr ""
+
+#: includes/class-wtsr-license.php:225
+msgid ""
+"Error: This action are not allowed, please enter correct license email and "
+"license key"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:843
+msgid "Error: This action is not allowed"
+msgstr ""
+
+#: public/class-wtsr-public.php:444 includes/lib/TSManager.php:750 
+#: public/partials/shortcodes/woo_review_page.php:189 
+#: public/partials/shortcodes/woo_review_page.php:352 
+#: public/partials/shortcodes/woo_review_page.php:414 
+#: public/partials/shortcodes/woo_review_page_sample.php:79
+msgid "Excellent"
+msgstr ""
+
+#: public/class-wtsr-public.php:438 includes/lib/TSManager.php:747 
+#: public/partials/shortcodes/woo_review_page.php:183 
+#: public/partials/shortcodes/woo_review_page.php:361 
+#: public/partials/shortcodes/woo_review_page.php:417 
+#: public/partials/shortcodes/woo_review_page_sample.php:85
+msgid "Fair"
+msgstr ""
+
+#: admin/partials/blocks/generate-actions.php:39
+msgid "Filter"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:78 
+#: admin/partials/wtsr-admin-settings.php:436
+msgid "Filter email domain"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard.php:169
+msgid "Finish installation"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:113 
+#: admin/partials/wtsr-admin-email.php:197
+msgid ""
+"First email will be sent after 3 days after order Completed. If order not "
+"reviewed within 7 days after first review request, email will be sent again. "
+"If order not reviewed within 11 days after second review request, email will "
+"be sent for the last time. "
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:110 
+#: admin/partials/wtsr-admin-email.php:194
+msgid ""
+"First email will be sent immediately after order Completed. If order not "
+"reviewed within 3 days after first review request, email will be sent again."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:219 
+#: admin/partials/wtsr-admin-email.php:560
+msgid "Five star link"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:97 
+#: admin/partials/wtsr-admin-email.php:181
+msgid "For our example"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:91 
+#: admin/partials/wtsr-admin-settings.php:453 
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:282 
+#: admin/partials/wtsr-admin-email.php:632
+msgid "For our example:"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:101 
+#: admin/partials/wtsr-admin-settings.php:440
+msgid ""
+"For secure reason we excluding orders that contain <strong><em>amazon</em>"
+"</strong> and <strong><em>ebay</em></strong> in billing email."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:54
+msgid ""
+"For transferring review requests to Klick Tipp, please Import this map and "
+"Activate transferring module."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:174 
+#: admin/partials/wtsr-admin-email.php:507
+msgid "Four star link"
+msgstr ""
+
+#: includes/class-wtsr-license.php:118
+msgid "Free"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:82 
+#: admin/partials/wtsr-admin-email.php:285
+msgid "Full size"
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:93 
+#: admin/partials/wtsr-admin-settings.php:398 
+#: admin/partials/wtsr-admin-email.php:958
+msgid "General settings"
+msgstr ""
+
+#: admin/partials/wtsr-admin-license.php:174
+msgid "Generate 10 dummy orders"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:158 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:290
+msgid "Generate 5 Orders"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:65 
+#: admin/partials/wtsr-admin-email.php:1174
+msgid "Generate customer reviews requests"
+msgstr ""
+
+#: admin/partials/wtsr-admin-license.php:162
+msgid "Generate dummy orders"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:226 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:239 
+#: admin/partials/wtsr-admin-generate.php:165
+msgid "Generate for selected"
+msgstr ""
+
+#: admin/partials/wtsr-admin-generate-order-reviews-table-list.php:124 
+#: admin/partials/wtsr-admin-generate-order-reviews-table-list.php:135
+msgid "Generate request"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:115 
+#: admin/partials/wtsr-admin-settings.php:462
+msgid "Generate request not often than (days)"
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:117 admin/partials/wtsr-admin-tabs.php:35 
+#: admin/partials/wtsr-admin-generate.php:87
+msgid "Generate requests"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:203 
+#: admin/partials/wtsr-admin-generate.php:136
+msgid "Generate review requests for existed orders"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:251 
+#: admin/partials/wtsr-admin-generate.php:181
+#, php-format
+msgid "Generate reviews for all %s orders"
+msgstr ""
+
+#: admin/partials/wtsr-admin-generate.php:179
+#, php-format
+msgid "Generate reviews for first %s orders"
+msgstr ""
+
+#. Name of the plugin
+msgid "Get Better Reviews for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Get Better Reviews for WooCommerce is an automated reviews request system "
+"for WooCommerce reviews"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:68 
+#: admin/partials/wtsr-admin-ts-reviews.php:75
+msgid "Get reviews from Trusted Shops"
+msgstr ""
+
+#: admin/partials/wtsr-admin-reviews.php:96
+msgid "Get statistics"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:244
+msgid "Get updates from Trusted Shops"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:118 
+#: admin/partials/wtsr-admin-review.php:80
+msgid ""
+"Get your testing email address on <a href=\"https://www.mail-tester.com/\" "
+"target=\"_blank\">https://www.mail-tester.com/</a>."
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:37
+msgid "Getting and tranfering review requests from Trusted Shops disabled"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:29
+msgid "Getting and tranfering review requests from Trusted Shops enabled"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:184 
+#: admin/partials/wtsr-admin-settings.php:507
+msgid ""
+"Goal: gathering all reviews from all variants of a product under the parent "
+"product sku."
+msgstr ""
+
+#: public/class-wtsr-public.php:440 includes/lib/TSManager.php:748 
+#: public/partials/shortcodes/woo_review_page.php:185 
+#: public/partials/shortcodes/woo_review_page.php:358 
+#: public/partials/shortcodes/woo_review_page.php:416 
+#: public/partials/shortcodes/woo_review_page_sample.php:83
+msgid "Good"
+msgstr ""
+
+#: public/partials/shortcodes/woo_review_page.php:524 
+#: public/partials/shortcodes/woo_review_page_sample.php:142
+msgid "h"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:88 
+#: admin/partials/wtsr-admin-email.php:291
+msgid "height"
+msgstr ""
+
+#: admin/partials/wtsr-admin-generate-order-reviews-table-list.php:105
+msgid "here"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1052 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:90
+msgid "hours"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1078 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:117
+msgid ""
+"hours until coupon will expire (you need to set Coupon expiration hours "
+"field)"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:856 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:198
+msgid "Hover button bg color"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:861
+msgid "Hover button text color"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:835 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:176
+msgid "Hover title color"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:52
+msgid "HTML template colors"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://saleswonder.biz/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://saleswonder.biz/blog/bessere-bewertungen-fuer-woocommerce/"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:10
+msgid "I have a Digistore24 license already!"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:34
+msgid "I want to buy a license!"
+msgstr ""
+
+#: includes/lib/TSManager.php:711
+msgid "I want to give review"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:69 
+#: admin/partials/wtsr-admin-settings.php:220 
+#: admin/partials/wtsr-admin-settings.php:334
+msgid "ID"
+msgstr ""
+
+#: includes/lib/Wtsr_Required_Plugins.php:31
+msgid ""
+"If it's your first WooCommerce installtion, you will be redirected to "
+"installation Wizard. You need to complete all steps and create or import at "
+"least one product in order to generate requests and see email html template."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:204 
+#: admin/partials/wtsr-admin-settings.php:517
+msgid ""
+"If this settings is checked only approved reviews from product page will be "
+"transferred to Klick Tipp. If disabled it will be transfered at once after "
+"user click \"Submit\" button"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-license_info.php:38
+msgid ""
+"If you already have your license email and key input them in the form below "
+"and click \"Activate\" button."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:45 
+#: admin/partials/wtsr-admin-settings.php:212
+msgid ""
+"If you already have your Trusted Shops ID and API credential, please input "
+"them in the form below."
+msgstr ""
+
+#. 1. URL link.
+#: more-better-reviews-for-woocommerce.php:107
+#, php-format
+msgid ""
+"If you like to sent review request to Klick Tipp plugin requires WP2LEADS "
+"plugin to be installed and active. You can download %s here."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:126 
+#: admin/partials/wtsr-admin-settings.php:467
+msgid ""
+"If you often have recurring customers, you can limit the number of valuation "
+"requests in a given period of time."
+msgstr ""
+
+#: admin/partials/wtsr-admin-description-review-ask.php:8
+msgid ""
+"If you select <strong>\"No\"</strong> all customers will get review request."
+msgstr ""
+
+#: admin/partials/wtsr-admin-description-review-ask.php:7
+msgid ""
+"If you select <strong>\"Yes\"</strong> only customer who checked \"I want to "
+"give review\" on checkout page will get review request."
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:278
+msgid ""
+"If you want more, you find all possibilities of the plugin in the<strong> <a "
+"href=\"?page=wp2leads-wtsr&tab=overview\">Overview</a> </strong>."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:107 
+#: admin/partials/wtsr-admin-settings.php:447
+msgid ""
+"If you want to add more filters for billing email, please add values in form "
+"field above."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:176
+msgid ""
+"If you want to send more then one review request for the same order put "
+"multiple values devided by \":\"."
+msgstr ""
+
+#: includes/lib/TSManager.php:858 includes/lib/Wtsr_Template.php:214
+msgid "Image"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:87
+msgid "Import and Activate"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:260
+msgid "Import reviews"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:58
+msgid "Import Reviews from Trusted Shops"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:273
+msgid ""
+"In order to import Trusted Shops reviews, you need to connect at least one "
+"of Trusted Shops Products with Woocommerce products and click \"Save product "
+"mapping\" button."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:40
+msgid ""
+"In order to send review requests with <a href=\"https://klick.santegra-"
+"international.com/api/split/1ilwz7uaz1fzkze798\" target=\"_blank\">Klick "
+"Tipp</a> Wp2Leads plugin must be installed and activated, otherwise select "
+"WooCommerce option."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:102
+msgid ""
+"In order to send review requests with <a href=\"https://www.klick-tipp."
+"com/15194\" target=\"_blank\">Klick Tipp</a> Wp2Leads plugin must be "
+"installed and activated, otherwise select WooCommerce option."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:999 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:37
+msgid ""
+"In this section you can set up sending Thank you email after customers "
+"review is published."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:75 
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:120 
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:165 
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:210 
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:255 
+#: admin/partials/wtsr-admin-email.php:391 
+#: admin/partials/wtsr-admin-email.php:444 
+#: admin/partials/wtsr-admin-email.php:497 
+#: admin/partials/wtsr-admin-email.php:550 
+#: admin/partials/wtsr-admin-email.php:603
+msgid "Input custom link, please!"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:757 
+#: admin/partials/wtsr-admin-license.php:169 
+#: admin/partials/wtsr-admin-license.php:183
+msgid "Input email domain"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:719 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:98
+msgid "Input page title"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:887 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:250
+msgid "Input reviews block title"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:55 
+#: admin/partials/wtsr-admin-wizard-required_plugin.php:50 
+#: admin/partials/wtsr-admin-email.php:117
+msgid "Install and Activate"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:151 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:283
+msgid ""
+"It could take a few seconds, please be patient and do not reload or close "
+"this page."
+msgstr ""
+
+#: includes/lib/TSManager.php:785
+msgid "John"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:741 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:105
+msgid ""
+"Just input a title you want to use and we will generate this page for you."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:24 
+#: admin/partials/wtsr-admin-wizard.php:87 
+#: admin/partials/wtsr-admin-email.php:86 
+#: admin/partials/wtsr-admin-display.php:41
+msgid "Klick Tipp"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:221
+msgid "Last updated"
+msgstr ""
+
+#: includes/lib/Wtsr_Settings.php:113
+msgid ""
+"Leave your product review within next {coupon_countdown_period} hours and "
+"get discount coupon"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard.php:115
+msgid "Let's Start"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:46
+msgid "License info"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-license_info.php:67 
+#: admin/partials/wtsr-admin-settings.php:95 
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:82
+msgid "License key"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-license_info.php:30
+#, php-format
+msgid ""
+"Lifetime free usage of all features with a limitation for <strong>%s "
+"reviews</strong> sent per <strong>%s days</strong>."
+msgstr ""
+
+#: includes/class-wtsr-license.php:431 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:62 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:115
+#, php-format
+msgid "Limit will be reset in %s."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-license_info.php:106 
+#: admin/partials/wtsr-admin-settings.php:132 
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:125
+msgid "List of sites"
+msgstr ""
+
+#: public/partials/shortcodes/woo_review_page.php:525 
+#: public/partials/shortcodes/woo_review_page_sample.php:143
+msgid "m"
+msgstr ""
+
+#: admin/class-wtsr-admin-wizard.php:505
+msgid "Map Activated successfully"
+msgstr ""
+
+#: admin/class-wtsr-admin-wizard.php:427 admin/class-wtsr-admin-wizard.php:457
+msgid "Map can't be imported from server"
+msgstr ""
+
+#: admin/class-wtsr-admin-wizard.php:467
+msgid "Map Imported and activated successfully"
+msgstr ""
+
+#: admin/class-wtsr-admin-wizard.php:446
+msgid "Map imported from server but we can't activate transfer module"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:45
+msgid "Map installed and instant module is active. You can start transferring!"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:49
+msgid ""
+"Map installed but instant module is not active. Please, activate module!"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:62 
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:85
+msgid "Map title"
+msgstr ""
+
+#: includes/lib/TSManager.php:131
+msgid "Maybe you are only testing on this site, than it is okay."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:761 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:129 
+#: public/partials/shortcodes/woo_review_page.php:386 
+#: public/partials/shortcodes/woo_review_page_sample.php:109
+msgid "Min comment length"
+msgstr ""
+
+#: includes/lib/TSManager.php:1770 includes/lib/TSManager.php:1777 
+#: includes/lib/TSManager.php:1784 includes/lib/TSManager.php:1791 
+#: includes/lib/TSManager.php:1798 includes/lib/TSManager.php:1805 
+#: includes/lib/TSManager.php:1812 includes/lib/TSManager.php:1819 
+#: includes/lib/TSManager.php:1826
+msgid ""
+"Neque integer, elementum eros. Sit explicabo arcu, in in arcu. Purus "
+"molestie nunc. Metus mus, erat sed. Tincidunt auctor ante, ante mi "
+"scelerisque, suspendisse aliquet. Ut conubia donec, id metus vestibulum. Leo "
+"in molestie, quam in per."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard.php:148 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:277
+msgid "Next"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:95 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:202 
+#: admin/partials/wtsr-admin-review.php:66 
+#: admin/partials/wtsr-admin-review.php:166
+msgid "Next request"
+msgstr ""
+
+#: admin/partials/wtsr-admin-settings.php:55 
+#: admin/partials/wtsr-admin-settings.php:536 
+#: admin/partials/wtsr-admin-email.php:61 
+#: admin/partials/wtsr-admin-email.php:1170 
+#: admin/partials/wtsr-admin-generate.php:91
+msgid "Next step"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:46 
+#: admin/partials/wtsr-admin-settings.php:410
+msgid "No"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:81 
+#: admin/partials/wtsr-admin-email.php:284
+msgid "No image shown"
+msgstr ""
+
+#: admin/class-wtsr-admin-wizard.php:480
+msgid "No map ID selected"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:552
+msgid "No order ID"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:578
+msgid "No order IDs"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:696
+msgid "No review ID"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:139 admin/class-wtsr-admin-ajax.php:164
+msgid "No review request ID provided"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:252 admin/class-wtsr-admin-ajax.php:395 
+#: admin/partials/wtsr-admin-ts-reviews.php:148
+msgid "No reviews for import"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:186 admin/class-wtsr-admin-ajax.php:721
+msgid "No reviews IDs"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:691 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:70
+msgid "No title"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:227
+msgid "No Trusted Shops credentials"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:184
+msgid "Norma button bg color"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:843
+msgid "Normal button bg color"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:848 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:190 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:204
+msgid "Normal button text color"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:830 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:170
+msgid "Normal title color"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:109
+msgid ""
+"Not connected to any product, but for shop in general. You still can map it "
+"to any product, and publish on product page."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:89 
+#: admin/partials/wtsr-admin-email.php:292
+msgid "not cropped"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:705 admin/class-wtsr-admin-ajax.php:740 
+#: admin/class-wtsr-admin-ajax.php:798
+msgid "Nothing was deleted"
+msgstr ""
+
+#: includes/transfer-modules/class-wtsr-transfer-review-request.php:40
+msgid ""
+"Once new review will be request created user data will be transfered to KT "
+"account."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:36 
+#: admin/partials/wtsr-admin-email.php:348
+msgid "One star link"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:176 
+#: admin/partials/wtsr-admin-settings.php:502
+msgid "Only parent products"
+msgstr ""
+
+#: includes/class-wtsr-license.php:357
+msgid "Open settings tab"
+msgstr ""
+
+#: admin/class-wtsr-admin.php:577 admin/class-wtsr-admin.php:578 
+#: admin/class-wtsr-admin.php:602
+msgid "Opt-in to see account"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:253
+msgid "Or you add title and we use it. See list of products without title"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:274
+msgid ""
+"Or you can generate 5 dummy orders for testing purposes by clicking the "
+"button <strong>Generate orders</strong>."
+msgstr ""
+
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:15 
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:53
+msgid "Order"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:148 
+#: admin/partials/wtsr-admin-settings.php:482
+msgid "Order created"
+msgstr ""
+
+#: admin/partials/blocks/available-shortcodes-list.php:5
+msgid "order date"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:289 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:372 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:431 
+#: admin/partials/wtsr-admin-reviews.php:250 
+#: admin/partials/wtsr-admin-reviews.php:338 
+#: admin/partials/wtsr-admin-reviews.php:400
+msgid "Order ID"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:269 
+#: admin/partials/wtsr-admin-email.php:615 
+#: admin/partials/blocks/available-shortcodes-list.php:4
+msgid "order number"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:270 
+#: admin/partials/wtsr-admin-email.php:616
+msgid "order number encoded to Base64"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:130 
+#: admin/partials/wtsr-admin-settings.php:471
+msgid ""
+"Order outdated status is calculating not from created date but from status "
+"changed. So every time we send email date will be updated and we have 30 "
+"days for review again."
+msgstr ""
+
+#: admin/partials/blocks/generate-actions.php:9
+msgid "Order status"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:97 
+#: admin/partials/wtsr-admin-email.php:181
+msgid "Order status for generating review request is set to"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:138 
+#: admin/partials/wtsr-admin-settings.php:476
+msgid "Order status generating reviews requests"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:204 
+#: admin/partials/wtsr-admin-generate.php:137
+msgid "orders available"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:788
+msgid "Orders generated"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:745 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:108
+msgid ""
+"Otherwise your client will be redirected to default all in one reviews page."
+msgstr ""
+
+#: admin/partials/wtsr-admin-reviews.php:123
+msgid "Outdated"
+msgstr ""
+
+#: admin/partials/wtsr-admin-tabs.php:23
+msgid "Overview"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:634
+msgid "Page created successfuly"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:696 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:75
+msgid "Page title"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:614
+msgid "Page title is required"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:97 
+#: admin/partials/wtsr-admin-settings.php:246 
+#: admin/partials/wtsr-admin-settings.php:350
+msgid "Password"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:133 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:130 
+#: admin/partials/wtsr-admin-review.php:92
+msgid "Paste email address"
+msgstr ""
+
+#: public/partials/shortcodes/woo_review_page.php:234 
+#: public/partials/shortcodes/woo_review_page_sample.php:54
+msgid "pending"
+msgstr ""
+
+#: admin/partials/wtsr-admin-license.php:186
+msgid "Please be patient, it could take upo to a minute, do not reload a page."
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:29
+msgid "Please finish installation wizard."
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:49
+msgid ""
+"Please input correct credentials or enable WooCommerce only mode <strong><a "
+"href=\"?page=wp2leads-wtsr&tab=settings\">here</a></strong>"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:983 admin/class-wtsr-admin-ajax.php:989 
+#: includes/lib/Wtsr_Settings.php:24
+msgid "Please use only numbers devided with \":\" for WooCommerce Email Delay."
+msgstr ""
+
+#: admin/partials/wtsr-admin-settings.php:364
+msgid "Please, fill in all Trusted Shops credential fields"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:660
+msgid "Please, select colors for all reviews page"
+msgstr ""
+
+#: public/class-wtsr-public.php:436 includes/lib/TSManager.php:746 
+#: public/partials/shortcodes/woo_review_page.php:181 
+#: public/partials/shortcodes/woo_review_page.php:364 
+#: public/partials/shortcodes/woo_review_page.php:418 
+#: public/partials/shortcodes/woo_review_page_sample.php:87
+msgid "Poor"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:342 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:344 
+#: admin/partials/wtsr-admin-reviews.php:302 
+#: admin/partials/wtsr-admin-reviews.php:304
+#, php-format
+msgid "prefix + %s sent to KT"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:87 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:194 
+#: admin/partials/wtsr-admin-review.php:58 
+#: admin/partials/wtsr-admin-review.php:158
+msgid "Previous request"
+msgstr ""
+
+#: includes/lib/TSManager.php:1769 includes/lib/TSManager.php:1790 
+#: includes/lib/TSManager.php:1811
+msgid "Product 1 Title"
+msgstr ""
+
+#: includes/lib/TSManager.php:1776 includes/lib/TSManager.php:1797 
+#: includes/lib/TSManager.php:1818
+msgid "Product 2 Title"
+msgstr ""
+
+#: includes/lib/TSManager.php:1783 includes/lib/TSManager.php:1804 
+#: includes/lib/TSManager.php:1825
+msgid "Product 3 Title"
+msgstr ""
+
+#: admin/class-wtsr-admin.php:1019
+msgid "Product details page"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:271 
+#: admin/partials/wtsr-admin-email.php:617
+msgid "product id"
+msgstr ""
+
+#: includes/lib/ReviewsModel.php:368
+msgid "Product page link"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:273 
+#: admin/partials/wtsr-admin-email.php:619
+msgid "product slug"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:272 
+#: admin/partials/wtsr-admin-email.php:618
+msgid "product title"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:169 
+#: admin/partials/wtsr-admin-settings.php:499
+msgid "Product variations"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:115
+msgid "Products list"
+msgstr ""
+
+#: admin/partials/blocks/available-shortcodes-list.php:8 
+#: admin/partials/blocks/available-shortcodes-list.php:9
+msgid "products list in order"
+msgstr ""
+
+#: includes/class-wtsr-license.php:109 includes/class-wtsr-license.php:116
+msgid "Professional"
+msgstr ""
+
+#: public/class-wtsr-public.php:487 public/class-wtsr-public.php:489
+msgid "proved by Trusted Shops"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:89 
+#: admin/partials/wtsr-admin-settings.php:448
+msgid "Put one item per line."
+msgstr ""
+
+#: admin/class-wtsr-admin.php:883
+msgid "Rating"
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:105 admin/partials/wtsr-admin-email.php:331
+msgid "Rating stars link settings"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:797 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:236
+msgid "Recommended image size not more than 390x90 px"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:244 
+#: admin/partials/wtsr-admin-reviews.php:204
+msgid "Remove filter"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:288 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:430 
+#: admin/partials/wtsr-admin-reviews.php:249 
+#: admin/partials/wtsr-admin-reviews.php:399
+msgid "Request #"
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:76
+msgid "Required plugins installation"
+msgstr ""
+
+#: includes/transfer-modules/class-wtsr-transfer-review-request.php:41
+msgid ""
+"Requirement: <strong>wp2lwtsr_reviews.order_id</strong> column within "
+"selected data."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:874 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:241
+msgid "Review block title"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:711
+msgid "Review deleted"
+msgstr ""
+
+#: includes/class-wtsr-wc-review-request-email.php:16 
+#: admin/partials/wtsr-admin-email.php:36 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:36 
+#: public/partials/shortcodes/woo_review_page.php:15 
+#: public/partials/shortcodes/woo_review_page_sample.php:19
+msgid "Review now!"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:567
+msgid "Review request could not be created for this order"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:157 
+#: admin/partials/wtsr-admin-review.php:119
+msgid "Review request email"
+msgstr ""
+
+#: templates/emails/wc-customer-review-request.php:32
+#, php-format
+msgid "Review request for order #%d."
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:561
+msgid "Review request generated"
+msgstr ""
+
+#: includes/class-wtsr-license.php:403 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:34 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:87
+msgid "Review request generating stopped!"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:214
+msgid "Review request sending started in background"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:176
+msgid "Review request sent"
+msgstr ""
+
+#: admin/class-wtsr-admin.php:514
+msgid "Review Request Sent to customer"
+msgstr ""
+
+#: includes/class-wtsr-wc-review-request-email.php:13
+msgid "Review Request to Customer"
+msgstr ""
+
+#: admin/partials/wtsr-admin-tabs.php:39
+msgid "Review requests"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:219
+msgid "Review requests can not be sent right now"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard.php:73 
+#: admin/partials/wtsr-admin-review.php:51
+msgid "Review requests preview"
+msgstr ""
+
+#: admin/partials/wtsr-admin-reviews.php:110
+msgid "Reviewed"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:49 
+#: admin/partials/wtsr-admin-ts-reviews.php:116 
+#: admin/partials/wtsr-admin-ts-reviews.php:319 
+#: admin/partials/wtsr-admin-ts-reviews.php:337 
+#: admin/partials/wtsr-admin-reviews.php:178
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:236 admin/class-wtsr-admin-ajax.php:243
+msgid ""
+"Reviews can not be imported from Trusted Shops, please check your Trusted "
+"Shops credentials"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:218
+msgid "Reviews from Trusted Shops"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:450
+msgid "Reviews imported"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:233
+#, php-format
+msgid "Reviews imported successfully. You can manage them %shere%s."
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:121
+msgid "Reviews list"
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:89 admin/partials/wtsr-admin-settings.php:193
+msgid "Reviews services integration"
+msgstr ""
+
+#: public/partials/shortcodes/woo_review_page.php:526 
+#: public/partials/shortcodes/woo_review_page_sample.php:144
+msgid "s"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-start_transfering.php:126 
+#: admin/partials/wtsr-admin-generate.php:130
+msgid "Save"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:931 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:279
+msgid "Save All-in-one reviews page settings"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:296 
+#: admin/partials/wtsr-admin-wizard-html_template.php:102 
+#: admin/partials/wtsr-admin-email.php:220 
+#: admin/partials/wtsr-admin-email.php:318 
+#: admin/partials/wtsr-admin-email.php:652 
+#: admin/partials/wtsr-admin-email.php:1157 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:188
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:146 
+#: admin/partials/wtsr-admin-settings.php:294
+msgid "Save credentials"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:248
+msgid "Save product mapping"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:125 
+#: admin/partials/wtsr-admin-wizard-general_settings.php:210 
+#: admin/partials/wtsr-admin-settings.php:525
+msgid "Save settings"
+msgstr ""
+
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:12 
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:50 
+#: admin/partials/wtsr-admin-reviews.php:396
+msgid "Select All"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:222 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:236 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:247 
+#: admin/partials/wtsr-admin-generate.php:161 
+#: admin/partials/wtsr-admin-generate.php:173
+msgid "Select at least one order"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:254 
+#: admin/partials/wtsr-admin-reviews.php:214
+msgid "Select at least one request"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:267 
+#: admin/partials/wtsr-admin-reviews.php:227
+msgid "Select at least one review"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:30 
+#: admin/partials/wtsr-admin-email.php:136
+msgid ""
+"Select how you are going to send review requests to your clients. You can "
+"use <strong>Klick Tipp</strong> or <strong>WooCommerce</strong> email "
+"options."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:75 
+#: admin/partials/wtsr-admin-email.php:280
+msgid "Select product image size"
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:97
+msgid "Select service for mailing"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:78
+msgid "Select service for sending review requests"
+msgstr ""
+
+#: includes/lib/Wtsr_Settings.php:11
+msgid "Select service you want to use for sending email requests."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:230 
+#: admin/partials/wtsr-admin-reviews.php:189
+msgid "select status"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:186
+msgid "Select WC product"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:141 
+#: admin/partials/wtsr-admin-review.php:103
+msgid "Send email"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:410 
+#: admin/partials/wtsr-admin-reviews.php:376
+msgid "Send request"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:256 
+#: admin/partials/wtsr-admin-reviews.php:216
+msgid "Send selected requests"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:404 
+#: admin/partials/wtsr-admin-reviews.php:370
+msgid "Sent"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:88 
+#: admin/partials/wtsr-admin-email.php:166
+msgid ""
+"Set up delay for sending review requests for Order status set in "
+"\"Settings\"."
+msgstr ""
+
+#: admin/partials/wtsr-admin-tabs.php:27 
+#: admin/partials/wtsr-admin-settings.php:51
+msgid "Settings"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:362 admin/class-wtsr-admin-wizard.php:186 
+#: admin/class-wtsr-admin-wizard.php:267 admin/class-wtsr-admin-wizard.php:312
+msgid "Settings saved"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:686
+msgid "Settings saved successfuly"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:120 includes/lib/Wtsr_Settings.php:47
+msgid "Settings saved."
+msgstr ""
+
+#: public/class-wtsr-public.php:162 admin/class-wtsr-admin-ajax.php:611
+msgid "Shop review page"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:270
+msgid "Shop reviews"
+msgstr ""
+
+#: admin/partials/blocks/generate-actions.php:29
+msgid "Show orders"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:894 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:268
+msgid "Show product description"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard.php:161
+msgid "Skip installation wizard."
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:40 
+#: admin/partials/wtsr-admin-ts-reviews.php:102
+msgid "SKU"
+msgstr ""
+
+#: includes/lib/TSManager.php:789
+msgid "Smith"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:277
+msgid ""
+"Some reviews can not be imported as far as they do not connected to any of "
+"Woocommerce product on your site. "
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:528
+msgid "Something went wrong"
+msgstr ""
+
+#: public/partials/shortcodes/woo_review_page_empty.php:7
+msgid "Sorry, there is nothing for you on this page!"
+msgstr ""
+
+#: admin/class-wtsr-admin.php:882
+msgid "Source"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:337
+msgid "Star rating links"
+msgstr ""
+
+#: admin/partials/blocks/available-shortcodes-list.php:10
+msgid "stars and buttons only one review"
+msgstr ""
+
+#: admin/partials/wtsr-admin-reviews.php:86 
+#: admin/partials/blocks/generate-actions.php:20
+msgid "Start / End dates"
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:125
+msgid "Start transferring"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-block-license_info.php:21
+msgid "Start trial here"
+msgstr ""
+
+#: admin/partials/wtsr-admin-reviews.php:76
+msgid "Statistics"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:228 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:291 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:374 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:433 
+#: admin/partials/wtsr-admin-generate-order-reviews-table-list.php:97 
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:16 
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:54 
+#: admin/partials/wtsr-admin-reviews.php:187 
+#: admin/partials/wtsr-admin-reviews.php:252 
+#: admin/partials/wtsr-admin-reviews.php:340 
+#: admin/partials/wtsr-admin-reviews.php:402
+msgid "Status"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:300 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:442 
+#: admin/partials/wtsr-admin-reviews.php:261 
+#: admin/partials/wtsr-admin-reviews.php:411
+msgid "Status changed"
+msgstr ""
+
+#: public/partials/shortcodes/woo_review_page.php:398 
+#: public/partials/shortcodes/woo_review_page.php:433 
+#: public/partials/shortcodes/woo_review_page_sample.php:121
+msgid "Submit review"
+msgstr ""
+
+#: public/class-wtsr-public.php:467 admin/class-wtsr-admin-ajax.php:66 
+#: admin/class-wtsr-admin-ajax.php:120 admin/class-wtsr-admin-ajax.php:156 
+#: admin/class-wtsr-admin-ajax.php:176 admin/class-wtsr-admin-ajax.php:214 
+#: admin/class-wtsr-admin-ajax.php:332 admin/class-wtsr-admin-ajax.php:362 
+#: admin/class-wtsr-admin-ajax.php:384 admin/class-wtsr-admin-ajax.php:450 
+#: admin/class-wtsr-admin-ajax.php:788 admin/class-wtsr-admin-wizard.php:105 
+#: admin/class-wtsr-admin-wizard.php:177 admin/class-wtsr-admin-wizard.php:185 
+#: admin/class-wtsr-admin-wizard.php:266 admin/class-wtsr-admin-wizard.php:311 
+#: admin/class-wtsr-admin-wizard.php:408 admin/class-wtsr-admin-wizard.php:466 
+#: admin/class-wtsr-admin-wizard.php:504 includes/lib/Wtsr_Settings.php:47
+msgid "Success"
+msgstr ""
+
+#: includes/class-wtsr-license.php:300
+msgid "Success: Activation completed"
+msgstr ""
+
+#: includes/class-wtsr-license.php:310
+msgid "Success: Site have been deleted"
+msgstr ""
+
+#: includes/class-wtsr-license.php:251
+msgid "Success: Your product activated"
+msgstr ""
+
+#: includes/class-wtsr-license.php:282
+msgid "Success: Your product deactivated"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:28 
+#: admin/partials/wtsr-admin-email.php:246
+msgid "Template Preview"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:116 
+#: admin/partials/wtsr-admin-review.php:78
+msgid "Test the Spammyness of your Emails"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:158 
+#: admin/partials/wtsr-admin-review.php:120
+msgid "Thank you email"
+msgstr ""
+
+#: includes/class-wtsr-wizard.php:113 admin/partials/wtsr-admin-email.php:951
+msgid "Thank you email settings"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:981 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:44
+msgid "Thank you email template"
+msgstr ""
+
+#: includes/lib/Wtsr_WC_Email_Customer_Coupon.php:14
+msgid "Thank you for review email"
+msgstr ""
+
+#: includes/lib/Wtsr_WC_Email_Customer_Coupon.php:21
+msgid "Thank you for your review"
+msgstr ""
+
+#: public/class-wtsr-public.php:462
+msgid "Thankyou for review!"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:275
+msgid ""
+"There is no reviews for import at the moment. Click \"Get updates from "
+"Trusted Shops\" to get new reviews."
+msgstr ""
+
+#: includes/transfer-modules/class-wtsr-transfer-review-request.php:39
+msgid "This module is created for Better Reviews for WooCommerce maps."
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:112
+msgid ""
+"This products <strong>will not be included</strong> to html template for "
+"product reviews request as far as you have <strong>\"Product page "
+"link\"</strong>  enabled in <strong>\"Start rating links\"</strong>."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1122 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:161
+msgid ""
+"This setting allow your customer to have another chance to get coupon for "
+"review. F.e. if you send review request email more then once."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:174 
+#: admin/partials/wtsr-admin-review.php:138
+msgid ""
+"This template only for previewing and test spammyness, no coupon will be "
+"generated."
+msgstr ""
+
+#: public/partials/wtsr-public-review-page.php:74
+msgid ""
+"This view is only for demonstration how this page will look like for your "
+"customers, you can try to send requests and check scrolling to next review "
+"product! No comments will be posted!"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:129 
+#: admin/partials/wtsr-admin-email.php:454
+msgid "Three star link"
+msgstr ""
+
+#: includes/class-wtsr-license.php:413 includes/class-wtsr-license.php:438 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:44 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:69 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:97 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:122
+#, php-format
+msgid ""
+"To continue testing and generate 5 times the amount of current review "
+"requests, start %s."
+msgstr ""
+
+#. Author of the plugin
+msgid "Tobias Conrad"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:154
+msgid "Total reviews"
+msgstr ""
+
+#: admin/partials/wtsr-admin-reviews.php:149
+msgid "Totally transferred"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:192 
+#: admin/partials/wtsr-admin-settings.php:512
+msgid "Transfer only approved reviews"
+msgstr ""
+
+#: includes/class-wtsr-license.php:106
+msgid "Trial"
+msgstr ""
+
+#: includes/class-wtsr-license.php:412 includes/class-wtsr-license.php:437 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:43 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:68 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:96 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:121
+msgid "trial here"
+msgstr ""
+
+#: admin/class-wtsr-admin.php:1007 admin/partials/wtsr-admin-wizard.php:92 
+#: admin/partials/wtsr-admin-display.php:46
+msgid "Trusted Shops"
+msgstr ""
+
+#: includes/lib/TSManager.php:165
+msgid "Trusted Shops API email or/and password is invalid"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:61 
+#: admin/partials/wtsr-admin-settings.php:206 
+#: admin/partials/wtsr-admin-settings.php:326
+msgid "Trusted Shops credentials"
+msgstr ""
+
+#: includes/lib/TSManager.php:131
+msgid "Trusted Shops credentials is not for this site."
+msgstr ""
+
+#: includes/lib/Wtsr_Settings.php:199
+msgid "Trusted Shops Email is not valid."
+msgstr ""
+
+#: includes/lib/Wtsr_Settings.php:196
+msgid "Trusted Shops Email is required."
+msgstr ""
+
+#: includes/lib/TSManager.php:163
+msgid "Trusted Shops ID is invalid"
+msgstr ""
+
+#: includes/lib/Wtsr_Settings.php:192
+msgid "Trusted Shops ID is required."
+msgstr ""
+
+#: includes/lib/Wtsr_Settings.php:204
+msgid "Trusted Shops Password is required."
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:318 
+#: admin/partials/wtsr-admin-ts-reviews.php:336
+msgid "Trusted Shops product title"
+msgstr ""
+
+#: includes/lib/ReviewsModel.php:367
+msgid "Trusted Shops review link"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:332
+msgid "Trusted Shops reviews loaded"
+msgstr ""
+
+#: admin/partials/wtsr-admin-tabs.php:46
+msgid "TS Reviews"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-rating_stars.php:84 
+#: admin/partials/wtsr-admin-email.php:401
+msgid "Two star link"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:814 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:228
+msgid "Upload logo image"
+msgstr ""
+
+#: public/class-wtsr-public.php:442 includes/lib/TSManager.php:749 
+#: public/partials/shortcodes/woo_review_page.php:187 
+#: public/partials/shortcodes/woo_review_page.php:355 
+#: public/partials/shortcodes/woo_review_page.php:415 
+#: public/partials/shortcodes/woo_review_page_sample.php:50 
+#: public/partials/shortcodes/woo_review_page_sample.php:81 
+#: public/partials/shortcodes/woo_review_page_sample.php:93
+msgid "Very good"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:362 
+#: admin/partials/wtsr-admin-reviews.php:328
+msgid "View"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:729 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:117
+msgid "View default page sample"
+msgstr ""
+
+#: admin/partials/wtsr-admin-generate.php:95
+msgid "View generated requests"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:707 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:86
+msgid "View page sample"
+msgstr ""
+
+#: includes/class-wtsr-license.php:406 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:37 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:90
+#, php-format
+msgid "Wait %s without generating new review requests."
+msgstr ""
+
+#: admin/partials/wtsr-admin-reviews.php:136
+msgid "Waiting"
+msgstr ""
+
+#: admin/partials/wtsr-admin-generate-order-reviews-table-list.php:102 
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:21 
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:59
+msgid "Want to give review"
+msgstr ""
+
+#: includes/class-wtsr-license.php:248
+msgid ""
+"Warning: There is no available licenses, you can move license key from "
+"another site."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:49
+#, php-format
+msgid ""
+"Watch our tutorials <a href=\"%s\">here</a> if you want to get to know how "
+"get your own <strong>Trusted Shops ID</strong> and <strong>API "
+"credentials</strong>."
+msgstr ""
+
+#: admin/class-wtsr-admin-wizard.php:495
+msgid "We can't activate transfer module for this map"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:509
+msgid "We can't enable reviews for this products"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:44 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:45 
+#: public/partials/shortcodes/woo_review_page.php:36 
+#: public/partials/shortcodes/woo_review_page_sample.php:13
+msgid "What did you like in particular?"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:128 
+#: admin/partials/wtsr-admin-settings.php:469
+msgid ""
+"When this period will end review request status will become <strong>"
+"outdated</strong> and you can generate new review request for this customer."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:43 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:44 
+#: public/partials/shortcodes/woo_review_page.php:35 
+#: public/partials/shortcodes/woo_review_page_sample.php:12
+msgid "Why did you choose this product?"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-html_template.php:88 
+#: admin/partials/wtsr-admin-email.php:291
+msgid "width"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard.php:85 
+#: admin/partials/wtsr-admin-display.php:39
+msgid "Woo"
+msgstr ""
+
+#: admin/class-wtsr-admin.php:564
+msgid "WOO better Reviews"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:295 
+#: admin/partials/wtsr-admin-wizard-reviews_list.php:437 
+#: admin/partials/wtsr-admin-reviews.php:256 
+#: admin/partials/wtsr-admin-reviews.php:406
+msgid "Woo Email Scheduled"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:25 
+#: admin/partials/wtsr-admin-email.php:87
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:75 
+#: admin/partials/wtsr-admin-email.php:145
+msgid "WooCommerce Email Delay (days)"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:482 admin/class-wtsr-admin-wizard.php:106
+msgid "WooCommerce only mode enabled"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:277
+msgid "WooCommerce only mode is enabled"
+msgstr ""
+
+#: admin/partials/wtsr-admin-ts-reviews.php:173 
+#: admin/partials/wtsr-admin-ts-reviews.php:320 
+#: admin/partials/wtsr-admin-ts-reviews.php:338
+msgid "Woocommerce product title"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:493
+msgid "WooCommerce sent your review requests active"
+msgstr ""
+
+#. 1. URL link.
+#: more-better-reviews-for-woocommerce.php:118
+#, php-format
+msgid ""
+"WooCommerce Trusted Shops Reviews requires WooCommerce plugin to be "
+"installed and active. You can download %s here."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:45 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:46 
+#: public/partials/shortcodes/woo_review_page.php:37 
+#: public/partials/shortcodes/woo_review_page_sample.php:14
+msgid "Would you recommend this product?"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-general_settings.php:47 
+#: admin/partials/wtsr-admin-settings.php:411
+msgid "Yes"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1005
+#, php-format
+msgid ""
+"You can <strong><a href=\"%s\" target=\"_blank\">edit coupon email here</a>"
+"</strong>"
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:739 
+#: admin/partials/wtsr-admin-wizard-all_in_one_page.php:103
+msgid ""
+"You can create custom page, where customers can review all products from "
+"order at once."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-email_send_via.php:92 
+#: admin/partials/wtsr-admin-email.php:92
+msgid ""
+"You can edit email subject, heading, add additional content or change email "
+"type <a href=\"?page=wc-"
+"settings&tab=email&section=wtsr_wc_email_review_request\" target=\"_blank\">"
+"here</a>"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:113
+msgid ""
+"You can enable each products review on product edit page or change settings "
+"on <strong>\"<a href=\"?page=wp2leads-"
+"wtsr&tab=email#wtsr_rating_links_settings_table\">Email</a>\"</strong> tab."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:149
+msgid ""
+"You can generate 5 dummy orders for testing purposes by clicking the button "
+"<strong>Generate orders</strong>."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-license_info.php:34
+msgid ""
+"You can get a license for unlimited reviews <a href=\"https://wp2leads-for-"
+"klick-tipp.com/web/better-reviews-for-woocommerce-price-list-eng/\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-ts_credentials.php:44 
+#: admin/partials/wtsr-admin-settings.php:211
+msgid ""
+"You can get reviews from <strong>Trusted Shops</strong> - The European trust "
+"brand in e-commerce using their API."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:272
+msgid "You can select another order status or change date period."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-license_info.php:25
+msgid ""
+"You can use More Better Reviews for WooCommerce for free and see you reviews "
+"created from you current and new WooCommerce customers and transfer them to "
+"Klick Tipp."
+msgstr ""
+
+#: admin/partials/wtsr-admin-email.php:1131 
+#: admin/partials/wtsr-admin-wizard-thankyou_settings.php:170
+msgid ""
+"You can use this description in your review request template with "
+"placeholder <strong>{coupon_countdown_description}</strong>"
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:195 
+#: admin/partials/wtsr-admin-generate.php:105
+msgid ""
+"You can't generate reviews requests for existed orders right now, as far as "
+"some requests are running in background."
+msgstr ""
+
+#: includes/class-wtsr-license.php:426 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:57 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:110
+#, php-format
+msgid "You created already %s review request."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:147
+msgid "You do not have any customers orders in your DB."
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:180
+msgid ""
+"You do not have any map for Better Reviews for WooCommerce. Please, <a "
+"href=\"?page=wp2l-admin&tab=map_port\" target=\"_blank\">download map "
+"here</a> in order to transfer reviews to Klick Tipp."
+msgstr ""
+
+#: admin/partials/wtsr-admin-generate-order-reviews-table.php:38
+msgid "You do not have any orders for generating reviews"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:178
+#, php-format
+msgid ""
+"You have a map for Better Reviews for WooCommerce, but transfer module is "
+"disabled. Please, <a href=\"?page=wp2l-"
+"admin&tab=map_to_api&active_mapping=%s\" target=\"_blank\">enable module "
+"here</a> in order to transfer reviews instantly."
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:252
+msgid ""
+"You have empty product titles and we will transfer the product slug instead "
+"of the title!"
+msgstr ""
+
+#: admin/class-wtsr-admin-ajax.php:593
+msgid "You have exceeded your Pro Version limit"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:182
+msgid ""
+"You have more than one Better Reviews for WooCommerce maps with transfer "
+"modules are enabled. Please, <a href=\"?page=wp2l-admin&tab=map_to_api\" "
+"target=\"_blank\">deactivate extra modules here</a> in order to prevent "
+"conflicts while transfering reviews to Klick Tipp."
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:184
+msgid ""
+"You have more then one maps for Better Reviews for WooCommerce, but transfer "
+"modules are disabled. Please, <a href=\"?page=wp2l-admin&tab=map_to_api\" "
+"target=\"_blank\">enable module for just one map here</a> in order to "
+"transfer reviews instantly."
+msgstr ""
+
+#: includes/class-wtsr-license.php:422 
+#: admin/partials/wtsr-admin-wizard-block-license_warning.php:53 
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:106
+#, php-format
+msgid ""
+"You have whole functionality, but generating review requests is limited to "
+"%s request."
+msgstr ""
+
+#: includes/lib/Wtsr_Settings.php:60
+msgid "you need to set up coupon amount"
+msgstr ""
+
+#: includes/lib/Wtsr_Settings.php:65
+msgid "you need to set up coupon countdown period"
+msgstr ""
+
+#: includes/lib/Wtsr_Settings.php:74
+msgid "you need to set up coupon description"
+msgstr ""
+
+#: includes/lib/Wtsr_Settings.php:72
+msgid "you need to set up coupon settings"
+msgstr ""
+
+#: admin/class-wtsr-admin.php:181
+msgid ""
+"You need to specify custom links values on <a href=\"?page=wp2leads-"
+"wtsr&tab=email\">Email tab</a>"
+msgstr ""
+
+#: includes/class-wtsr-license.php:356
+msgid ""
+"Your activation is in progress. You need to Complete this to securely save "
+"your license data."
+msgstr ""
+
+#: admin/partials/wtsr-admin-description-review-ask.php:4
+msgid "your checkout"
+msgstr ""
+
+#: public/partials/shortcodes/woo_review_page.php:527 
+#: public/partials/shortcodes/woo_review_page_sample.php:145
+msgid "Your countdown finished! No Coupon for reviewing at the moment."
+msgstr ""
+
+#: admin/partials/wtsr-admin-wizard-generate_reviews.php:271
+#, php-format
+msgid ""
+"Your do not have orders with status <strong>%s</strong> created in period "
+"between <strong>%s</strong> -  <strong>%s</strong>."
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:111
+#, php-format
+msgid ""
+"Your have <strong>%s</strong> out of <strong>%s</strong> products reviews "
+"disabled."
+msgstr ""
+
+#: includes/class-wtsr-license.php:368
+msgid ""
+"Your license will stop soon, because of an issue with payment. Please check "
+"your emails from support@digistore24.com!"
+msgstr ""
+
+#: includes/lib/Wtsr_Notices.php:83
+msgid ""
+"Your products reviews disabled globally. If you want to use product page "
+"review link in your html template enable reviews, please"
+msgstr ""
+
+#: public/class-wtsr-public.php:450 includes/lib/Wtsr_Default_Templates.php:12 
+#: includes/lib/Wtsr_Default_Templates.php:15 
+#: includes/lib/Wtsr_Template.php:40 includes/lib/Wtsr_Template.php:173 
+#: includes/lib/Wtsr_Template.php:256 
+#: public/partials/shortcodes/woo_review_page.php:230 
+#: public/partials/shortcodes/woo_review_page.php:234 
+#: public/partials/shortcodes/woo_review_page.php:311 
+#: public/partials/shortcodes/woo_review_page.php:371 
+#: public/partials/shortcodes/woo_review_page.php:423 
+#: public/partials/shortcodes/woo_review_page_sample.php:50 
+#: public/partials/shortcodes/woo_review_page_sample.php:54 
+#: public/partials/shortcodes/woo_review_page_sample.php:93
+msgid "Your rating"
+msgstr ""
+
+#: public/class-wtsr-public.php:454 
+#: public/partials/shortcodes/woo_review_page.php:315 
+#: public/partials/shortcodes/woo_review_page.php:375 
+#: public/partials/shortcodes/woo_review_page.php:427 
+#: public/partials/shortcodes/woo_review_page_sample.php:97
+msgid "Your review"
+msgstr ""
+
+#: public/class-wtsr-public.php:468
+msgid "Your review saved!"
+msgstr ""
